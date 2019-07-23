@@ -5,6 +5,9 @@ http://zy-email1991.iteye.com/blog/2243021
 
 参考：http://www.cnblogs.com/peida/archive/2013/05/31/3070790.html
 
+对于大写的英文，形如 july,august... 参考这里
+https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+
 java中使用SimpleDateFormat类的构造函数SimpleDateFormat(String str)构造格式化日期的格式,通过format(Date date)方法将指定的日期对象格式化为指定格式的字符串.
  
 下面我们来研究一下SimpleDateFormat构造函数中字符串的格式,以及各部分代表的含义:
